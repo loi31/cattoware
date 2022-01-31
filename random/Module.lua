@@ -50,9 +50,9 @@ local AimingSettings = {
 
     FOVSettings = {
         Circle = Drawingnew("Circle"),
-        Enabled = true,
+        Enabled = false,
         Scale = 80,
-        Sides = 0,
+        Sides = 1,
         Colour = Color3fromRGB(255,105,180)
     },
 
